@@ -23,3 +23,5 @@ Explanation
 If Login Success, result will be saved at `ids.txt`
 
 The you can input the result to the Instagram Mass Follow
+
+`Instagram Mass Follow` https://jnckmedia.com/igMassFollow/
