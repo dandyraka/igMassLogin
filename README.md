@@ -18,7 +18,7 @@ Explanation
 
 `Delimeter` Example ~> : or |
 
-`Delay` Delay in seconds, recomended 30
+`Delay` Delay in seconds, Ex : 10, 20, 30
 
 If Login Success, result will be saved at `ids.txt`
 
